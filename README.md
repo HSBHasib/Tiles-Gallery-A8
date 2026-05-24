@@ -28,13 +28,13 @@ Tiles Gallery is a dedicated web application designed to showcase a modern curat
 ---
 
 ## 📦 Dependencies
-
 * next
 * react
 * react-dom
 * better-auth
 * mongodb
 * swiper
+* React Form Hook
 * tailwindcss
 * @heroui/react
 * react-toastify
@@ -74,9 +74,10 @@ git clone [ https://github.com/HSBHasib/Tiles-Gallery-A8.git ]
 # Go into the project folder
 cd Tiles-Gallery-A8
 
-# Setup your Environment Variables (.env)
-# BETTER_AUTH_SECRET=your_secret
-# MONGODB_URI=your_mongodb_connection_string
+# Important
+Setup your Environment Variables (.env)
+BETTER_AUTH_SECRET=your_secret
+MONGODB_URI=your_mongodb_connection_string
 
 # Install dependencies
 npm install
