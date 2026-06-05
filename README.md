@@ -8,6 +8,8 @@ Discover your perfect aesthetic, search through premium collections, and manage 
 Tiles Gallery is a dedicated web application designed to showcase a modern curation of premium interior tiles. This platform helps users browse, search, and check out detailed tile specifications online from anywhere easily, saving them from the hassle of visiting physical stores just for browsing. Built with the Next.js App Router and secured with BetterAuth, it delivers a smooth, fast, and fully responsive user experience.
 
 ---
+<img width="1915" height="972" alt="screencapture-tilesgallery-gbpq6kw46-hsbhasi-vercel-app-2026-06-05-23_37_22" src="https://github.com/user-attachments/assets/ab46017e-d981-406b-aacc-b5bd112ed242" />
+---
 
 ## 🔗 Links
 
